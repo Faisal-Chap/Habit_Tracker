@@ -13,3 +13,4 @@ programe structure as follows
 - then there is the loop that calls the continue function and check the current day data in the pixel and informs the user
 
 You can improve this programe by adding the GUI and integrating the OpenAI api
+Pixe.la API documentation:    https://docs.pixe.la/
